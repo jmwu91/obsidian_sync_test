@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New file.md",
+                "file": "測試測試/測試資料夾同步/New file.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New file.md",
+                "file": "測試測試/測試資料夾同步/New file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New file.md",
+                "file": "測試測試/測試資料夾同步/New file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New file.md"
+                "file": "測試測試/測試資料夾同步/New file.md"
               }
             }
           },
@@ -173,9 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fb3143bea6a083e",
+  "active": "b5050955eeaed5bc",
   "lastOpenFiles": [
-    "New file.md",
-    "測試測試/測試資料夾同步/測試文件內容同步.md"
+    "測試測試/測試資料夾同步/測試文件內容同步.md",
+    "測試測試/測試資料夾同步/New file.md"
   ]
 }
